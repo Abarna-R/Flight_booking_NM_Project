@@ -1,9 +1,10 @@
 # MERN-Flight-Booking-Application
 
-
 A complete flight booking application made using MERN Stack (MongoDB, Express js, React js, Node js)
 
 The Flight ticket booking app is composed of the following Features:
+
+![banner-illustration-mobile-app-book-now-plane_81534-431](https://github.com/user-attachments/assets/75ea64df-2cce-4a57-94df-9af06518180c)
 
 ### Front-End
 
