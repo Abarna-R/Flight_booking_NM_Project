@@ -75,3 +75,10 @@ Integrated AI Chatbot:
 
 ![](documentationResources/aichatbot.png)
 ---
+
+
+#Team Members
+* R. Abarna
+* V. Subhalakshmi
+* E. Sharmila
+* Kerthika
