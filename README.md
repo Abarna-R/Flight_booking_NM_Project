@@ -81,4 +81,4 @@ Integrated AI Chatbot:
 * R. Abarna
 * V. Subhalakshmi
 * E. Sharmila
-* Kerthika
+* G. Kerthika
