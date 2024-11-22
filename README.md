@@ -2,6 +2,7 @@
 
 A user-friendly web application that allows users to search, filter, and book flights hassle-free. This app is designed with a modern, responsive interface to provide an efficient and seamless booking experience across all devices.
 
+![istockphoto-1053519084-612x612](https://github.com/user-attachments/assets/678183b3-5e89-4d81-8bb8-a9f661725707)
 
 ## 🌐 **Deployed Link**
 [Flight Reservation App](https://flight-reservation-assignment.vercel.app/)  
