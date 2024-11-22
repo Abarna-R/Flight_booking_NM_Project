@@ -1,86 +1,51 @@
-# MERN-Flight-Booking-Application
+# ✈️ Flight Reservation App
 
-A complete flight booking application made using MERN Stack (MongoDB, Express js, React js, Node js)
+A user-friendly web application that allows users to search, filter, and book flights hassle-free. This app is designed with a modern, responsive interface to provide an efficient and seamless booking experience across all devices.
 
-The Flight ticket booking app is composed of the following Features:
-
-![banner-illustration-mobile-app-book-now-plane_81534-431](https://github.com/user-attachments/assets/75ea64df-2cce-4a57-94df-9af06518180c)
-
-### Front-End
-
-* Sign-In & Sign-Up Pages.
-
-* Uses Token based system, so only registered users can access the website  passport js.
-
-* Password hashing using passport js.
-
-* Has a profile page, which will display all information about the signed in user.
-
-* List of cities for users to choose from (starting city & destination city). 
-
-* Getting list of flight's of different airlines with various details.
-
-* Seat selection page has a very user friendly environment, which also generates dynamic forms for storing data's of passengers.
-
-* Has a Confirmation page, which gets a debit card data using react-credit-cards. This version of the application does not include handling the payment process. 
-
-* Final page has a boarding pass displaying component, it displays all passenger data and also generates a random number as a transaction ID.
-
-* Ticket Cancellation page will cancel the ticket which was booked.
-
-* Also has an integrated ai chatbot
-
-### Back-End
-
-* Uses Express js based application for the backend process.
-
-* Uses MongoDB atlas for storing the collections.
-
-* Uses passport js for authenticating user and token based system.
-
-* Uses passport js for hashing the password before sending the data to the cloud.
-
-* This version does not support dynamic seat data being stored from cloud.
-
-
-This project also demonstrates:
-
-* a typcial React project layout structure
-
-**Screenshots:**
-Landing Page:
-
-![](documentationResources/homepage.png)
-
-Signing In Page:
-
-![](documentationResources/login.png)
-
-Flight Selection Page:
-
-![](documentationResources/booking.png)
-
-Seat Selection Page:
-
-![](documentationResources/seatselection.png)
-
-Payment & Confirmation Page:
-
-![](documentationResources/payment.png)
-
-Ticket Cancellation Page:
-
-![](documentationResources/cancellation.png)
-
-Integrated AI Chatbot:
-
-![](documentationResources/aichatbot.png)
 ---
 
+## 🌐 **Deployed Link**
+[Flight Reservation App](#)  
 
-# Team Members
-* R. Abarna
-* V. Subhalakshmi
-* E. Sharmila
-* G. Keerthika
-* V. Elavarasi
+---
+
+## 🛠 **Technologies Used**
+
+The project uses the following technologies and frameworks:  
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **React.js**
+- **TailwindCSS**
+- **React Router**
+- **React RC-slider**
+
+---
+
+## ⚡ **Features**
+
+### 1. Sorting & Filtering
+- Easily sort and filter flight data based on various parameters, such as:
+  - Departure time
+  - Airline
+  - Duration
+- Advanced filtering options to customize the search experience.
+
+### 2. Price Range Slider
+- A user-friendly slider to select flights within your budget range.
+
+### 3. Responsive Design
+- Fully optimized for all devices:
+  - Desktop
+  - Tablet
+  - Mobile
+
+### 4. User-friendly Interface
+- Intuitive design to ensure users can search and book flights with minimal effort.
+
+### 5. Efficient Booking Process
+- Streamlines the flight reservation process, saving time and reducing hassle.
+
+---
+
+## 🖥 **Screenshots**
