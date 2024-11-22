@@ -63,7 +63,7 @@ The project uses the following technologies and frameworks:
 - V. Subhalakshmi
 - E. Sharmila
 - V. Elavarasi
-- Keerthika
+- G. Keerthika
 
 
 
