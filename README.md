@@ -39,6 +39,7 @@ The project uses the following technologies and frameworks:
 ### 4. User-friendly Interface
 - Intuitive design to ensure users can search and book flights with minimal effort.
 
+## 🖥 **Screenshots**
 # Desktop View
 
 ![Screenshot 1](<./readmeImages/img%20(4).png>)
@@ -58,6 +59,12 @@ The project uses the following technologies and frameworks:
 ### 5. Efficient Booking Process
 - Streamlines the flight reservation process, saving time and reducing hassle.
 
----
+# Team Members
+- R. Abarna
+- V. Subhalakshmi
+- E. Sharmila
+- V. Elavarasi
+- Keerthika
 
-## 🖥 **Screenshots**
+
+
